@@ -23,7 +23,7 @@ BASE_DIR = Path(__file__).resolve().parent.parent
 SECRET_KEY = 'nk)tdywa&+w$6vsjl(^7fa8_1c(t4*c&+g(e0_y&v7cc^p0g7o'
 
 # SECURITY WARNING: don't run with debug turned on in production!
-DEBUG = True
+DEBUG = False
 
 ALLOWED_HOSTS = ['127.0.0.1','trendin-one.herokuapp.com']
 
